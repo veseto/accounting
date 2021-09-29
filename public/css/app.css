@@ -1,0 +1,12 @@
+.hiddenRow {
+    padding: 0 4px !important;
+    background-color: #eeeeee;
+    font-size: 13px;
+}
+
+
+.bg-login-image {
+  background: url("/img/bg-1.jpg") !important;
+  background-position: center;
+  background-size: cover;
+}
